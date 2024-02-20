@@ -1,7 +1,14 @@
 Home page text - 
-At the WildLens Institute, students immerse themselves in the captivating world of wildlife photography, honing technical skills and nurturing creative vision under the guidance of experienced mentors. Through a dynamic blend of theoretical learning and hands-on fieldwork, participants master camera techniques, lighting, and composition while gaining insights into wildlife behavior and habitat.
+At the WildLens Institute, students immerse themselves in the captivating world of wildlife photography,
+ honing technical skills and nurturing creative vision under the guidance of experienced mentors. 
+Through a dynamic blend of theoretical learning and hands-on fieldwork, participants master camera 
+techniques, lighting, and composition while gaining insights into wildlife behavior and habitat.
 
-Beyond technical proficiency, the institute emphasizes storytelling and ethical practices, fostering a deep appreciation for conservation and responsible photography. Graduates emerge not only as skilled photographers but as advocates for the natural world, equipped to capture its beauty while preserving its delicate balance.
+Beyond technical proficiency, 
+the institute emphasizes storytelling and ethical practices, 
+fostering a deep appreciation for conservation and responsible photography. 
+Graduates emerge not only as skilled photographers but as advocates for 
+the natural world, equipped to capture its beauty while preserving its delicate balance.
 
 
 
